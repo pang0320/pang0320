@@ -1,16 +1,71 @@
 ## Hi there 👋
+<div align="center">
 
-<!--
-**pang0320/pang0320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Boonraksa 👋
 
-Here are some ideas to get you started:
+### Computer Specialist • Developer • System Designer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build secure and practical systems for real-world university operations.
+
+</div>
+
+---
+
+## 🙋 About Me
+
+- 💼 Working on academic and administrative information systems
+- 🛠️ Skilled in PHP, Python, MySQL, JavaScript
+- 🔐 Interested in cybersecurity and secure system design
+- 🏫 Focused on university digital workflow improvement
+- 🚀 Always building practical tools that can be used in real operations
+
+---
+
+## 🧰 Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,python,js,mysql,html,css,bootstrap,tailwind,jquery,git,github,linux,vscode" />
+</p>
+
+---
+
+## 📌 Highlight Projects
+
+- **Degree Verification System**  
+  Educational qualification verification and document workflow support
+
+- **Booking Study Room System**  
+  Classroom/study room booking with management and scheduling logic
+
+- **University Fines System**  
+  Fine management dashboard and reporting workflows
+
+- **EMS Running Number**  
+  Python utility for mailing and tracking-related operations
+
+---
+
+## 📊 GitHub Overview
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pang0320&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pang0320&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pang0320&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📫 Contact
+
+- GitHub: [pang0320](https://github.com/pang0320)
+- Facebook: pang0320FT
+
+<div align="center">
+  <sub>Practical systems. Clean structure. Real use.</sub>
+</div>
