@@ -2,7 +2,7 @@
 
 # Hi there, I'm Boonraksa 👋
 
-### Computer Specialist • Developer • System Designer
+### Computer Specialist • Full Stack Developer • QA & CyberSecurity
 
 I build secure, practical, and maintainable systems for real-world university operations.
 
@@ -53,7 +53,7 @@ My main focus is building systems that are not only functional, but also secure,
 - **Database Design:** MySQL, relational database design, query optimization
 - **System Design:** Workflow planning, modular structure, role-based systems
 - **Security:** Secure coding, input validation, authentication flow, access control
-- **Tools & Environment:** Git, GitHub, Linux, VS Code
+- **Tools & Environment:** Git, GitHub, Linux, Linux Server, NAS, VS Code
 
 ---
 
