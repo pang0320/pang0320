@@ -1,160 +1,119 @@
 <div align="center">
 
-# Boonraksa
+# Hi there, I'm Boonraksa Warnichyanon 👋
 
-### Computer Specialist | Full Stack Developer | QA | Cybersecurity
+### Computer Specialist • Full Stack Developer • QA & CyberSecurity
 
-Building secure, practical, and maintainable systems for real university operations.
+I build secure, practical, and maintainable systems for real-world university operations.
 
 <p>
   <a href="https://github.com/pang0320">
-    <img src="https://img.shields.io/badge/GitHub-pang0320-181717?style=for-the-badge&logo=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-pang0320-181717?style=for-the-badge&logo=github" />
   </a>
-  <img src="https://img.shields.io/badge/Focus-Secure%20Systems-0B5ED7?style=for-the-badge" alt="Focus" />
-  <img src="https://img.shields.io/badge/Environment-University%20Operations-198754?style=for-the-badge" alt="Environment" />
-  <img src="https://img.shields.io/badge/Role-Builder%20%26%20Problem%20Solver-6F42C1?style=for-the-badge" alt="Role" />
+  <img src="https://img.shields.io/badge/Focus-Secure%20Systems-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Environment-University%20Operations-success?style=for-the-badge" />
 </p>
-
+ 
 </div>
 
 ---
 
-## Snapshot Cards
+## 🙋 About Me
 
-<table width="100%" cellpadding="16">
-  <tr>
-    <td width="50%" valign="top" height="220">
+I work on academic and administrative information systems that support actual university workflows.  
+My main focus is building systems that are not only functional, but also secure, structured, and suitable for long-term operational use.
 
-### About Me
-- Build academic and administrative information systems
-- Design workflows that match real organizational processes
-- Focus on secure coding, access control, and maintainability
-- Prefer practical systems over demo-only prototypes
+- 💼 Working on academic and administrative digital systems
+- 🛠️ Experienced in both system development and workflow design
+- 🔐 Interested in cybersecurity, secure coding, and access control
+- 🏫 Focused on improving university services through practical technology
+- 🚀 Building tools that solve real operational problems, not just prototypes
 
-</td>
-    <td width="50%" valign="top" height="220">
+---
 
-### Working Style
-- Clean, modular, and maintainable structure
-- Security-aware implementation from day one
-- Clear database relationships and predictable logic
-- UX that supports daily operations, not just visuals
+## 🎯 Current Focus
 
-</td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" height="220">
+- Developing secure web applications for university operations
+- Designing internal systems with clear workflows and database structures
+- Improving document processing, verification, and reporting systems
+- Applying cybersecurity principles in real organizational environments
+- Creating systems that are easy to maintain, extend, and actually use
 
-### Current Focus
-- Secure web applications for internal university use
-- Workflow-driven dashboards and document systems
-- Verification, reporting, and process automation tools
-- Systems that are easy to extend and support long-term
+---
 
-</td>
-    <td width="50%" valign="top" height="220">
+## 🧰 Skills
 
-### What I Like to Build
-- Secure internal platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,python,js,mysql,html,css,bootstrap,tailwind,jquery,git,github,linux,vscode" />
+</p>
+
+### Technical Areas
+- **Backend Development:** PHP, Python
+- **Frontend Development:** HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, jQuery
+- **Database Design:** MySQL, relational database design, query optimization
+- **System Design:** Workflow planning, modular structure, role-based systems
+- **Security:** Secure coding, input validation, authentication flow, access control
+- **Tools & Environment:** Git, GitHub, Linux, Linux Server, NAS, VS Code
+
+---
+
+## 📌 Highlight Projects
+
+### **Degree Verification System**
+Educational qualification verification and document workflow support for university processes.
+
+### **Booking Study Room System**
+Room booking and schedule management system with approval flow and resource management.
+
+### **University Fines System**
+Fine management dashboard with reporting, filtering, and operational tracking features.
+
+### **EMS Running Number**
+Python utility for mailing workflows and tracking-related operational tasks.
+
+### **Academic Workflow Tools**
+Internal tools for supporting forms, document flow, records, and administrative operations.
+
+---
+
+## 🏗️ What I Like to Build
+
+- Secure internal systems
+- Workflow-driven web applications
+- Administrative dashboards
 - Approval and document tracking systems
-- Database-backed admin tools
-- University service systems with practical UI/UX
-
-</td>
-  </tr>
-</table>
+- Database-backed tools for real organizations
+- University service platforms with practical UI/UX
 
 ---
 
-## Tech Stack
+## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,python,js,mysql,html,css,bootstrap,tailwind,jquery,git,github,linux,vscode" alt="Tech Stack" />
-</p>
-
-<table width="100%" cellpadding="16">
-  <tr>
-    <td width="50%" valign="top" height="170">
-
-### Backend & Data
-- PHP, Python
-- MySQL, relational schema design
-- Query optimization for operational workloads
-
-</td>
-    <td width="50%" valign="top" height="170">
-
-### Frontend & Delivery
-- HTML, CSS, JavaScript, jQuery
-- Bootstrap, Tailwind CSS
-- Git/GitHub workflow and Linux-based deployment
-
-</td>
-  </tr>
-</table>
-
----
-
-## Highlight Projects (Card View)
-
-<table width="100%" cellpadding="16">
-  <tr>
-    <td width="50%" valign="top" height="160">
-
-### Degree Verification System
-Educational qualification verification with document workflow and process tracking.
-
-</td>
-    <td width="50%" valign="top" height="160">
-
-### Booking Study Room System
-Room booking and schedule management with approval flow and resource planning.
-
-</td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" height="160">
-
-### University Fines System
-Fine management dashboard with filtering, reporting, and operational tracking.
-
-</td>
-    <td width="50%" valign="top" height="160">
-
-### EMS Running Number
-Python utility supporting mailing workflows and operational traceability.
-
-</td>
-  </tr>
-  <tr>
-    <td width="100%" colspan="2" valign="top" height="120">
-
-### Academic Workflow Tools
-Internal tools for forms, document routing, records, and administrative operations.
-
-</td>
-  </tr>
-</table>
-
----
-
-## GitHub Overview
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=pang0320&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pang0320&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pang0320&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pang0320&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pang0320&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pang0320&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## Contact
+## 🧠 Working Style
+
+- Clean and maintainable structure
+- Practical design for real users
+- Security-aware implementation
+- Clear database relationships and logic
+- Systems that support actual daily operations
+
+---
+
+## 📫 Contact
 
 - GitHub: [pang0320](https://github.com/pang0320)
 - Facebook: [pang0320](https://www.facebook.com/pang0320FT/)
