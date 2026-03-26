@@ -21,9 +21,9 @@ Building secure, practical, and maintainable systems for real university operati
 
 ## Snapshot Cards
 
-<table>
+<table width="100%" cellpadding="16">
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" height="220">
 
 ### About Me
 - Build academic and administrative information systems
@@ -32,7 +32,7 @@ Building secure, practical, and maintainable systems for real university operati
 - Prefer practical systems over demo-only prototypes
 
 </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" height="220">
 
 ### Working Style
 - Clean, modular, and maintainable structure
@@ -43,7 +43,7 @@ Building secure, practical, and maintainable systems for real university operati
 </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" height="220">
 
 ### Current Focus
 - Secure web applications for internal university use
@@ -52,7 +52,7 @@ Building secure, practical, and maintainable systems for real university operati
 - Systems that are easy to extend and support long-term
 
 </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" height="220">
 
 ### What I Like to Build
 - Secure internal platforms
@@ -72,9 +72,9 @@ Building secure, practical, and maintainable systems for real university operati
   <img src="https://skillicons.dev/icons?i=php,python,js,mysql,html,css,bootstrap,tailwind,jquery,git,github,linux,vscode" alt="Tech Stack" />
 </p>
 
-<table>
+<table width="100%" cellpadding="16">
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" height="170">
 
 ### Backend & Data
 - PHP, Python
@@ -82,7 +82,7 @@ Building secure, practical, and maintainable systems for real university operati
 - Query optimization for operational workloads
 
 </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" height="170">
 
 ### Frontend & Delivery
 - HTML, CSS, JavaScript, jQuery
@@ -97,15 +97,15 @@ Building secure, practical, and maintainable systems for real university operati
 
 ## Highlight Projects (Card View)
 
-<table>
+<table width="100%" cellpadding="16">
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" height="160">
 
 ### Degree Verification System
 Educational qualification verification with document workflow and process tracking.
 
 </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" height="160">
 
 ### Booking Study Room System
 Room booking and schedule management with approval flow and resource planning.
@@ -113,13 +113,13 @@ Room booking and schedule management with approval flow and resource planning.
 </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" height="160">
 
 ### University Fines System
 Fine management dashboard with filtering, reporting, and operational tracking.
 
 </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" height="160">
 
 ### EMS Running Number
 Python utility supporting mailing workflows and operational traceability.
@@ -127,7 +127,7 @@ Python utility supporting mailing workflows and operational traceability.
 </td>
   </tr>
   <tr>
-    <td width="100%" colspan="2" valign="top">
+    <td width="100%" colspan="2" valign="top" height="120">
 
 ### Academic Workflow Tools
 Internal tools for forms, document routing, records, and administrative operations.
@@ -141,7 +141,7 @@ Internal tools for forms, document routing, records, and administrative operatio
 ## GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pang0320&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=pang0320&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
 </p>
 
 <p align="center">
@@ -149,7 +149,7 @@ Internal tools for forms, document routing, records, and administrative operatio
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pang0320&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pang0320&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 ---
