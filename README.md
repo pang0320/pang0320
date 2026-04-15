@@ -2,81 +2,133 @@
 
 # Hi there, I'm Boonraksa Warnichyanon 👋
 
-### Computer Specialist • Full Stack Developer • QA & CyberSecurity
+### Computer Specialist • Full Stack Developer • QA • Cybersecurity-Oriented Builder
 
-I build secure, practical, and maintainable systems for real-world university operations.
+I design and build secure, practical, and maintainable systems for real-world university operations.
 
 <p>
   <a href="https://github.com/pang0320">
     <img src="https://img.shields.io/badge/GitHub-pang0320-181717?style=for-the-badge&logo=github" />
   </a>
-  <img src="https://img.shields.io/badge/Focus-Secure%20Systems-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Environment-University%20Operations-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Secure%20Systems-1f6feb?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Environment-University%20Operations-2ea043?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Approach-Practical%20%26%20Maintainable-orange?style=for-the-badge" />
 </p>
- 
+
 </div>
 
 ---
 
-## 🙋 About Me
+## About Me
 
 I work on academic and administrative information systems that support actual university workflows.  
-My main focus is building systems that are not only functional, but also secure, structured, and suitable for long-term operational use.
+My core interest is building systems that are not only functional, but also secure, well-structured, and sustainable for long-term operational use.
 
-- 💼 Working on academic and administrative digital systems
-- 🛠️ Experienced in both system development and workflow design
-- 🔐 Interested in cybersecurity, secure coding, and access control
-- 🏫 Focused on improving university services through practical technology
-- 🚀 Building tools that solve real operational problems, not just prototypes
+My work typically involves translating real organizational processes into usable digital systems, with attention to workflow design, database structure, validation logic, reporting, and access control.
+
+- Working on academic and administrative digital systems
+- Combining development, system design, and operational workflow thinking
+- Interested in cybersecurity, secure coding, and role-based access control
+- Focused on practical technology that improves university services
+- Building systems for real use, not only demonstrations or prototypes
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 - Developing secure web applications for university operations
-- Designing internal systems with clear workflows and database structures
-- Improving document processing, verification, and reporting systems
+- Designing internal systems with clear workflows and maintainable database structures
+- Improving document processing, verification, approval, and reporting systems
 - Applying cybersecurity principles in real organizational environments
-- Creating systems that are easy to maintain, extend, and actually use
+- Building systems that are extendable, supportable, and suitable for daily operational use
 
 ---
 
-## 🧰 Skills
+## Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,python,js,mysql,html,css,bootstrap,tailwind,jquery,git,github,linux,vscode" />
 </p>
 
 ### Technical Areas
+
 - **Backend Development:** PHP, Python
 - **Frontend Development:** HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, jQuery
-- **Database Design:** MySQL, relational database design, query optimization
-- **System Design:** Workflow planning, modular structure, role-based systems
-- **Security:** Secure coding, input validation, authentication flow, access control
+- **Database Design:** MySQL, relational design, normalization, query optimization
+- **System Design:** workflow mapping, modular architecture, role-based systems
+- **Security:** secure coding, validation, authentication flow, access control, audit-minded development
 - **Tools & Environment:** Git, GitHub, Linux, Linux Server, NAS, VS Code
 
 ---
 
-## 📌 Highlight Projects
+## Highlight Projects
 
-### **Degree Verification System**
-Educational qualification verification and document workflow support for university processes.
+### Degree Verification System
+A university-oriented verification platform for managing educational qualification checks and document-based workflows.
 
-### **Booking Study Room System**
-Room booking and schedule management system with approval flow and resource management.
+**Key contributions:**
+- Designed document verification flow for operational staff
+- Built status tracking and record management features
+- Structured database relationships for reliable document lookup
+- Supported real administrative processes with clear workflow logic
 
-### **University Fines System**
-Fine management dashboard with reporting, filtering, and operational tracking features.
-
-### **EMS Running Number**
-Python utility for mailing workflows and tracking-related operational tasks.
-
-### **Academic Workflow Tools**
-Internal tools for supporting forms, document flow, records, and administrative operations.
+**Focus areas:** document verification, workflow design, database-backed operations, role-based access
 
 ---
 
-## 🏗️ What I Like to Build
+### Booking Study Room System
+A room booking and schedule management system designed for controlled resource usage within an educational environment.
+
+**Key contributions:**
+- Developed booking, scheduling, and approval workflow
+- Managed time-slot conflicts and resource availability logic
+- Designed interfaces for staff and administrative control
+- Improved traceability and usability for real users
+
+**Focus areas:** scheduling, approval flow, conflict validation, operational usability
+
+---
+
+### University Fines System
+An internal system for fine management, operational tracking, and reporting dashboard support.
+
+**Key contributions:**
+- Developed dashboards for fine statistics and reporting
+- Built filtering and category-based summary views
+- Supported administrative tracking and decision-making
+- Improved visibility of fine-related operational data
+
+**Focus areas:** dashboard design, reporting systems, administrative data management
+
+---
+
+### EMS Running Number Utility
+A Python-based utility designed to support mailing workflows and operational tracking tasks.
+
+**Key contributions:**
+- Automated running number generation
+- Reduced repetitive manual work in mailing processes
+- Improved consistency and tracking reliability
+- Supported administrative efficiency in document handling
+
+**Focus areas:** process automation, Python utility development, workflow support
+
+---
+
+### Academic Workflow Tools
+A group of internal tools created to support forms, document routing, record management, and university administrative processes.
+
+**Key contributions:**
+- Built workflow-oriented web tools for staff usage
+- Designed practical interfaces for form submission and tracking
+- Structured systems to align with real operational requirements
+- Focused on maintainability and actual institutional use
+
+**Focus areas:** internal tools, form systems, document flow, administrative support platforms
+
+---
+
+## What I Like to Build
 
 - Secure internal systems
 - Workflow-driven web applications
@@ -87,7 +139,18 @@ Internal tools for supporting forms, document flow, records, and administrative 
 
 ---
 
-## 📊 GitHub Overview
+## Engineering Style
+
+- Clean and maintainable structure
+- Practical design for real users
+- Security-aware implementation
+- Clear database relationships and business logic
+- Systems that support actual daily operations
+- Development aligned with operational reality, not only technical preference
+
+---
+
+## GitHub Overview
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pang0320&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -103,17 +166,7 @@ Internal tools for supporting forms, document flow, records, and administrative 
 
 ---
 
-## 🧠 Working Style
-
-- Clean and maintainable structure
-- Practical design for real users
-- Security-aware implementation
-- Clear database relationships and logic
-- Systems that support actual daily operations
-
----
-
-## 📫 Contact
+## Contact
 
 - GitHub: [pang0320](https://github.com/pang0320)
 - Facebook: [pang0320](https://www.facebook.com/pang0320FT/)
