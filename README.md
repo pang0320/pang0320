@@ -2,7 +2,7 @@
 
 # Hi there, I'm Boonraksa Warnichyanon 👋
 
-### Computer Specialist • Full Stack Developer • QA • Cybersecurity-Oriented Builder
+### Computer Specialist • Full Stack Developer • QA • CyberSecurity
 
 I design and build secure, practical, and maintainable systems for real-world university operations.
 
