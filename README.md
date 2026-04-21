@@ -2,6 +2,8 @@
 
 # Hi there, I'm Boonraksa Warnichyanon
 
+### M.Sc. (Digital Network and Information Security Management)
+
 ### Computer Specialist | Full Stack Developer | QA | Cybersecurity
 
 I design and build secure, practical, and maintainable systems for real-world university operations.
@@ -29,6 +31,7 @@ Most of my practical development work happens in private or internal repositorie
 My work typically involves translating real organizational processes into usable digital systems, with attention to workflow design, database structure, validation logic, reporting, access control, user experience, and long-term maintainability.
 
 - Working on academic and administrative digital systems
+- M.Sc. (Digital Network and Information Security Management)
 - Building private and internal systems for real university operations
 - Combining development, system design, QA, and operational workflow thinking
 - Interested in cybersecurity, secure coding, and role-based access control
@@ -229,11 +232,29 @@ Public GitHub cards are useful as a quick visual snapshot, but they do not tell 
 | Python | Automation utilities, scripts, data/file workflow support | Private/public mix |
 | Git / GitHub | Version control, repository management, project organization | Public/private mix |
 
-### Public GitHub Snapshot
+### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pang0320&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;theme=tokyonight&amp;hide_border=true" alt="Public GitHub stats for pang0320" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=pang0320&amp;theme=tokyonight&amp;hide_border=true" alt="Public GitHub streak stats for pang0320" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pang0320&amp;show_icons=true&amp;include_all_commits=true&amp;rank_icon=github&amp;theme=github_dark&amp;hide_border=false&amp;border_radius=6&amp;border_color=30363d&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;icon_color=58a6ff&amp;bg_color=0d1117&amp;custom_title=Boonraksa%20Warnichyanon%27s%20GitHub%20Stats" alt="Boonraksa Warnichyanon's GitHub stats" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=pang0320&amp;theme=github-dark-blue&amp;hide_border=false&amp;border_radius=6&amp;background=0D1117&amp;border=30363D&amp;stroke=58A6FF&amp;ring=58A6FF&amp;fire=58A6FF&amp;currStreakNum=58A6FF&amp;sideNums=58A6FF&amp;currStreakLabel=C9D1D9&amp;sideLabels=C9D1D9&amp;dates=8B949E" alt="GitHub contribution streak for pang0320" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pang0320&amp;layout=compact&amp;langs_count=10&amp;theme=github_dark&amp;hide_border=false&amp;border_radius=6&amp;border_color=30363d&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;bg_color=0d1117" alt="Most used public GitHub languages for pang0320" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pang0320&amp;theme=github_dark&amp;utcOffset=7" alt="Most productive time for pang0320" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pang0320&amp;theme=github_dark" alt="Repositories per language for pang0320" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pang0320&amp;theme=github_dark" alt="Most committed languages for pang0320" />
+</p>
+
+<p align="center">
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pang0320&amp;theme=github_dark" alt="GitHub profile details for pang0320" />
+</p>
+
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=pang0320&amp;theme=github-compact&amp;hide_border=true&amp;bg_color=0d1117&amp;color=c9d1d9&amp;title_color=58a6ff&amp;line=58a6ff&amp;point=c9d1d9&amp;area=true" alt="GitHub activity graph for pang0320" />
 </p>
 
 ### Practical Language Snapshot
